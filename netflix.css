@@ -1,0 +1,137 @@
+.form {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.766);
+    color: lightgrey;
+
+    width: 35%;
+    padding-left: 20px;
+    margin: 20%;
+    margin-top: 0%;
+    padding-bottom: 10%;
+    padding-top: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+
+}
+
+.usn,
+.pwd {
+    padding: 10px;
+    width: 80%;
+    border-radius: 5px;
+}
+
+body {
+
+    background-image: url("bg.jpg");
+}
+
+a {
+    text-decoration: none;
+
+}
+
+.nh {
+    color: lightgray;
+    font-size: 13px;
+}
+
+label {
+    font-size: 13px;
+}
+
+button {
+    padding: 10px;
+    width: 80%;
+    background-color: red;
+    border: none;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+#lang {
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
+
+.su {
+    text-decoration: none;
+    color: white;
+}
+
+h1 {
+    color: red;
+    font-family: be;
+}
+
+.v01,
+.v02,
+.v03,
+.v04,
+.v05,
+.v06 {
+    color: gray;
+}
+
+.bottom {
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    padding-left: 0%;
+    padding-bottom: 0%;
+    margin: 0%;
+    padding: 10px;
+    text-align: center;
+
+
+
+}
+
+.ques {
+    color: lightgrey;
+}
+
+.p2 {
+    padding: 2px;
+}
+
+.lm {
+    color: blue;
+}
+
+
+p,
+a {
+    color: gray;
+    font-family: 'Roboto', sans-serif;
+}
+
+.mmm {
+    padding-left: 20%;
+}
+
+.p3,
+.p4,
+.bottom {
+
+    padding-right: 20px;
+    font-size: small;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.nh:hover {
+
+    text-decoration: underline;
+}
+
+.su:hover {
+
+    text-decoration: underline;
+}
+
+.lm:hover {
+
+    text-decoration: underline;
+}

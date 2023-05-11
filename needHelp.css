@@ -1,0 +1,70 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    background-image: url("queen.jpg");
+}
+
+.main2 {
+    background-color: rgb(252, 252, 252);
+    font-family: 'Roboto', sans-serif;
+    padding: 50px;
+
+}
+
+.main1 {
+    padding-left: 35%;
+    padding-right: 35%;
+}
+
+.fp {
+    font-size: x-large;
+    font-weight: 600;
+}
+
+.mail {
+    padding: 10px;
+    width: 100%;
+}
+
+button {
+    padding: 10px;
+    width: 100%;
+    background-color: rgb(19, 140, 254);
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    border: none;
+
+
+}
+
+button:hover {
+    cursor: pointer;
+
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.bottom {
+
+    color: rgb(166, 166, 166);
+    padding: 30px;
+    padding-left: 35%;
+    padding-right: 35%;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.lm {
+    color: gray;
+}
